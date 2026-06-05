@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://order-management-backend-b0z0.onrender.com/api';
 
 // Dashboard API
 export const getDashboardStats = async () => {
